@@ -1,0 +1,17 @@
+{
+  "name": "progress.io",
+  "short_name": "progress.io",
+  "description": "A focused workspace for building better habits.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c080a",
+  "theme_color": "#0c080a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
